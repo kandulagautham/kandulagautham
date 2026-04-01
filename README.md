@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=32&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hey%2C+I'm+Gautham+Kandula+%F0%9F%91%8B;Full-Stack+Developer+%7C+AI+Builder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=30&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hey%2C+I'm+Gautham+Kandula+%F0%9F%91%8B;Full-Stack+Developer+%7C+AI+Builder" alt="Typing SVG" />
 
 <br/>
 
@@ -68,27 +68,36 @@ I'm a full-stack developer with a focus on **backend systems**, **cloud infrastr
 ### 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kandulagautham&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" height="170" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kandulagautham&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" alt="Top Languages" height="170" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kandulagautham&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=kandulagautham&show_icons=true&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kandulagautham&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" alt="GitHub Stats" height="170" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kandulagautham&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kandulagautham&layout=compact&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kandulagautham&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" alt="Top Languages" height="170" />
+  </picture>
 </div>
 
+<br/>
+
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=kandulagautham&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=kandulagautham&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=kandulagautham&theme=default&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=kandulagautham&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
+  </picture>
 </div>
 
 ---
 
 ### 🚀 Currently Building
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| 🎮 **Brain Games Hub** | Browser-based ADHD focus games & quick stress-release games with polished UI | 🔨 In Progress |
-| 🧩 **AI Agent Orchestrator** | VS Code extension to visualize, create, and manage AI agents with hierarchical architecture | 📐 Planning |
+| Project                      | Description                                                                                 | Status         |
+| ---------------------------- | ------------------------------------------------------------------------------------------- | -------------- |
+| 🎮 **Brain Games Hub**       | Browser-based ADHD focus games & quick stress-release games with polished UI                | 🔨 In Progress |
+| 🧩 **AI Agent Orchestrator** | VS Code extension to visualize, create, and manage AI agents with hierarchical architecture | 📐 Planning    |
 
 ---
 
@@ -96,8 +105,20 @@ I'm a full-stack developer with a focus on **backend systems**, **cloud infrastr
 
 <div align="center">
 
-[![Food Menu Frontend](https://github-readme-stats.vercel.app/api/pin/?username=kandulagautham&repo=foodmenufrontend&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9)](https://github.com/kandulagautham/foodmenufrontend)
-[![Food Menu Backend](https://github-readme-stats.vercel.app/api/pin/?username=kandulagautham&repo=foodmenubackend&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9)](https://github.com/kandulagautham/foodmenubackend)
+<a href="https://github.com/kandulagautham/foodmenufrontend">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kandulagautham&repo=foodmenufrontend&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kandulagautham&repo=foodmenufrontend&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kandulagautham&repo=foodmenufrontend&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" alt="Food Menu Frontend" />
+  </picture>
+</a>
+<a href="https://github.com/kandulagautham/foodmenubackend">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kandulagautham&repo=foodmenubackend&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kandulagautham&repo=foodmenubackend&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kandulagautham&repo=foodmenubackend&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" alt="Food Menu Backend" />
+  </picture>
+</a>
 
 </div>
 
