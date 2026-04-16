@@ -96,7 +96,7 @@ I'm a full-stack developer with a focus on **backend systems**, **cloud infrastr
 
 | Project                      | Description                                                                                 | Status         |
 | ---------------------------- | ------------------------------------------------------------------------------------------- | -------------- |
-| 🎮 **Brain Games Hub**       | Browser-based ADHD focus games & quick stress-release games with polished UI                | 🔨 In Progress |
+| 🎮 **Brain Games Hub**       | Browser-based ADHD focus games & quick stress-release games with polished UI                | 🔗 [Live Demo](https://kandulagautham.github.io/brain-games-hub/)        |
 | 🧩 **AI Agent Orchestrator** | VS Code extension to visualize, create, and manage AI agents with hierarchical architecture | 📐 Planning    |
 
 ---
